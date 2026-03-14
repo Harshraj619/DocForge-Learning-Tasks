@@ -11,18 +11,7 @@
 - what if we have a column that is a scalar multiple of another column, find out ways to see if one column is 'related' to another.
  
 
----
 
-### 2.d Git Branch & Merge Task  
-- Create a new branch named `fun_feature` off the `fun` branch.  
-- Run the following commands:  
-  - `touch fav_song.txt`  
-  - `vim fav_song.txt`  
-- Add the first three lines of your favorite song in `fav_song.txt`.  
-- Save and exit.  
-- Merge the branch with the `fun` branch.  
-
----
 
 ### Additional Instructions  
 - You can either download the repository and copy-paste the Task2 folder or use Git to fetch and pull only Task2 while preserving the Task1 content of your submission.  
